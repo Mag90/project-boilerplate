@@ -16,7 +16,7 @@ This boilerplate includes:
 
 1. Clone this repository
    ```
-   git clone <repository-url> project-boilerplate
+   git clone git@github.com:Mag90/project-boilerplate.git project-boilerplate
    cd project-boilerplate
    ```
 
@@ -36,7 +36,7 @@ This boilerplate includes:
 
 1. Clone this repository
    ```
-   git clone <repository-url> your-project-name
+   git clone git@github.com:Mag90/project-boilerplate.git your-project-name
    cd your-project-name
    ```
 
